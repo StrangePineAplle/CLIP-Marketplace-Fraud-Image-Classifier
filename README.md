@@ -54,5 +54,5 @@ After thorough training and validation, the final model achieved an impressive F
 
 ### Performance Metrics
 - **F1 Score**: 0.92
-- **speed**: around 1 minute/3000 img
+- **speed**: less (around) 1 minute/3000 img
 
