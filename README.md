@@ -3,6 +3,8 @@
 ![CLIP](https://img.shields.io/badge/CLIP-blue)
 ![CatBoost](https://img.shields.io/badge/Catboost-orange)
 
+[![OCR base solution](https://img.shields.io/badge/OCR%20base%20solution%20-%20red)](https://github.com/StrangePineAplle/OCR-Marketplace-Fraud-Image-Classifier)
+
 ## Overview
 The **Marketplace Fraud Image Classifier** project aims to detect fraudulent images in online marketplaces by classifying them as either fraudulent or non-fraudulent. The model is trained to identify images that contain deceptive text, such as "деньги за отзывы телеграм @mony_tg," which are commonly associated with scams.
 
